@@ -1,6 +1,6 @@
-I'm Fang Zhang, a full-stack && Web3 developer, passionate about reading books and listening the podcast. I'm currently living in Auckland, New Zealand and working at home.
+I'm Fang Zhang, a full-stack && Web3 developer, passionate about Coding, Reading books and Listening the podcast. I'm currently living in Auckland, New Zealand and working at home.
 
-- 👋 Hi, I’m mostly working on: [MDearth.io](https://mdearth.io)
+- 👋 Hi, I’m mostly working on(Web3 SaaS): [MDearth.io](https://mdearth.io)
 - 👀 I’m interested in sorts of web3 applications, which we call them "dApp".
 - 🌱 I’m currently reading: The Ethereum Whitepaper.
 - 💞️ I’m looking to collaborate on: Web3.0 projects.
