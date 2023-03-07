@@ -1,4 +1,4 @@
-I'm Fang Zhang, an Open Source developer, passionate about Coding🖥, Reading books📜 and Listening to podcasts🎙. I quit my job in March of 2022 and have created and maintained several open-source projects since then.
+I'm Fang Zhang, an Open Source developer, passionate about Coding🖥, Reading books📜 and Listening to podcasts🎙. I have created and maintained some projects, just trying to make a bit of commitment to the open-source community.
 
 - 👋 Hi, I’m mostly working on Web3 open-source projects: [MDearth](https://mdearth.io)
 - 👀 I’m interested in a sort of Web3 application called "dApp", especially some [Awesome Web3 Projects](https://github.com/Awesome-Thinkings/Awesome-Web3) that could help people understand and be involved in the Web3 world.
