@@ -36,6 +36,8 @@
   - Gmail
   - Photos
   - Maps
+  - Youtube
+  - Translate
 - iCloud
 - AWS
   - EC2
@@ -57,6 +59,10 @@
   - Trello
 - Udemy
 - Discord
+- Envato
+- SiteGround
+- YT5s
+- iChing
   
 # Mobile App
 - Gmail
