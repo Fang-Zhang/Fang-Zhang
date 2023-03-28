@@ -2,7 +2,7 @@ I'm [Fang Zhang](https://fang-zhang.com), a Project Manager, passionate about Co
 
 - 👋 Hi, I’m mostly working on Web3 NFT projects: [MDearth](https://mdearth.io)
 - 🌱 I’m currently maintaining two open-source organizations: [MERN-Projects](https://github.com/MERN-Entrepreneur-Projects) and [Awesome-Thinkings](https://github.com/Awesome-Thinkings).
-- 💞️ I’m looking to collaborate on Web3 or MERN projects.
+<!-- - 💞️ I’m looking to collaborate on Web3 or MERN projects. -->
 - 📫 How to reach me: Through my E-mail: walter.zhangfang@gmail.com
 - 😄 Fun fact: I am living in Auckland(New Zealand) with my wife and our daughter, Alice.
 
