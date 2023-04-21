@@ -1,4 +1,4 @@
-I'm [Fang Zhang](https://fang-zhang.com), a Project Manager and Full-Stack Developer, passionate about Coding, Reading books and Listening to podcasts. <br/>
+I'm [Fang Zhang](https://fang-zhang.com), a Project Manager and [MERN](https://github.com/MERN-Entrepreneur-Projects) Full-Stack Developer, passionate about Coding, Reading books and Listening to podcasts. <br/>
 <br />
 I have created and maintained some projects, just trying to make a bit of commitment to the open-source community.
 
