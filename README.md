@@ -1,6 +1,6 @@
-I'm [Fang Zhang](https://fang-zhang.com), a Project Manager and [MERN](https://github.com/MERN-Entrepreneur-Projects) Full-Stack Developer, passionate about Coding, Reading books and Listening to podcasts. <br/>
+I'm [Fang Zhang](https://fang-zhang.com), a [MERN](https://github.com/MERN-Entrepreneur-Projects) Full-Stack Developer, passionate about Coding, Reading books and Listening to podcasts. <br/>
 <br />
-I have created and maintained some projects, just trying to make a bit of commitment to the open-source community.
+I have created and maintained some projects and organizations, just trying to make a bit of a commitment to the open-source community.
 
 <!-- - 👋 Hi, I’m mostly working on Web3 NFT projects: [MDearth](https://mdearth.io) -->
 <!-- - 🌱 I’m currently maintaining two open-source organizations: [MERN-Projects](https://github.com/MERN-Entrepreneur-Projects) and [Awesome-Thinkings](https://github.com/Awesome-Thinkings). -->
