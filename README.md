@@ -1,4 +1,4 @@
-I'm [Fang Zhang](https://fang-zhang.com), a Software Product Builder, passionate about Coding, Reading books and Listening to podcasts. <br/>
+I'm [Fang Zhang](https://fang-zhang.com), a Software Product Builder, passionate about Coding, Reading and Swimming. <br/>
 <br />
 I have created and maintained some projects and organizations, just trying to make a bit of a commitment to the open-source community.
 
